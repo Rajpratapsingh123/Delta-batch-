@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 50px;
+    text-align: center;
+    
+    
+}
+.main{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    transform: translate(350px);
+    align-content:space-evenly ;
+
+}
