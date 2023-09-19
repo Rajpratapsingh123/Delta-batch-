@@ -1,0 +1,17 @@
+nav{
+    height: 50px;
+    width: 900px;
+    border-radius: 10px;
+    background-color: pink;
+   display: flex;
+}
+a{
+    height: 50px;
+    width: 80px;
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    
+}
