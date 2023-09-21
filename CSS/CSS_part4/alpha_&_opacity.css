@@ -1,0 +1,13 @@
+#alpha{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 0,0,0.5);
+    
+}
+
+#opacity{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    opacity: 0.2;
+}
