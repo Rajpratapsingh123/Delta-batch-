@@ -1,0 +1,44 @@
+.main{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: rgb(184, 134, 25);
+    box-shadow: 2px 4px 8px black;
+}
+.main:hover{
+    box-shadow: 2px 4px 18px black;
+}
+.mouth{
+    height: 70px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 60%;
+    left: 25%;
+    border-radius: 0px 0px 50px 50px;
+
+}
+.mouth:hover{
+    height: 90px;
+    width: 240px;
+    border-radius: 0px 0px 70px 70px;
+    position: relative;
+    left: 20%;
+}
+.eye1{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 10%;
+    left: 25%;
+}
+.eye2{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    left: 250px;
+}
